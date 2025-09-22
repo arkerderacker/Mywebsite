@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+h1 {
+color: red;
+}
+P {
+color:blue;
+}
+body {
+background-color: black;
+</style> </head> <body>
+<h1>why vaping not good</h1>
+<p>vaping is not good beacuse it got alot of chemicles inside.</p>
+<p>so do not vape because vaping very bad</p>
+<p> Vaping is often marketed as a safer alternative to smoking, but it's far from harmless — especially for young people. Many vape products contain nicotine, which is highly addictive and can interfere with brain development in teens and young adults. When someone vapes, they're inhaling not just flavored vapor, but also a mix of chemicals that can irritate or damage the lungs. In some cases, vaping has been linked to serious lung illnesses and even long-term breathing problems. Beyond the physical effects, vaping can also impact mental health. The nicotine in vapes can cause mood swings, anxiety, and make it harder to concentrate. And because it's so addictive, it becomes easy to depend on it without even realizing. There’s also the risk of moving on to other harmful substances after starting with vaping — something that's been shown in several studies. Another problem is how easy it is to underestimate the risks. Many people think it’s "just water vapor," when in reality it’s a cocktail of chemicals that haven’t been fully studied for long-term safety. Some flavoring agents, for example, are safe to eat but not safe to breathe into your lungs. So even though it might look cool or feel relaxing at first, vaping comes with serious risks — ones that are often hidden behind fruity flavors and flashy designs.</p>
+<h1>by Markus</h1>
+</body> </html>
